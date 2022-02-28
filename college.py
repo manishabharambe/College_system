@@ -12,6 +12,9 @@ class College(Base_class):
         self.clgstrength=no_of_studs
         self.Departments = []
 
+class GITtrydiff:
+    sum = 5 + 10
+
 if __name__ == "__main__":
     c1 = College(3144,"UMIT","Dr. Mathew",60)
     print(c1)
